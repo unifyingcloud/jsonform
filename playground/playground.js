@@ -6,6 +6,8 @@ $('document').ready(function () {
         title: 'JSON Form example to start from',
         type: 'string',
         'enum': [
+
+          'Tortura',
           'gettingstarted',
           'schema-basic',
           'schema-morecomplex',
